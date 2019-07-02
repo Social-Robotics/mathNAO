@@ -9,3 +9,5 @@ The code provides three packages:
 Each package corresponds with one of the test scenarios.
 
 The folder `tsjoetsjoewa` contains the files needed for NAO to perform the Tsjoe Tsjoe Wa dance.
+
+TO RUN: upload repo onto Nao (using ssh session), and run shell scripts to start (and log data) for different versions.
