@@ -7,3 +7,5 @@ The code provides three packages:
 - Non-feedback package
 
 Each package corresponds with one of the test scenarios.
+
+The folder `tsjoetsjoewa` contains the files needed for NAO to perform the Tsjoe Tsjoe Wa dance.
